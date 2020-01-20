@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: SpaceFX
+Class-Path: SpaceFX-1.0-SNAPSHOT.jar 
+Main-Class: eu.hansolo.spacefx.Launcher
+
