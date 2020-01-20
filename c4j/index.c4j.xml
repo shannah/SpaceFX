@@ -10,6 +10,6 @@
     Initial build
   ]]>
   </changes>
-  <jre fx="true"/>
+  <jre fx="true" version="~> 11"/>
   <permission name="java.security.AllPermission"/>
 </app>
