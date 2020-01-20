@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<app codeSignSettings="3" macAppBundleId="ca.weblite.spacefx" macAppUrl="https://github.com/shannah/SpaceFX/raw/master/c4j/releases/mac/SpaceFX.tar.gz" numScreenshots="0" title="SpaceFX" updates="Auto" url="https://github.com/shannah/SpaceFX/raw/master/c4j/SpaceFX-1.0-SNAPSHOT.jar" vendor="SpaceFX" version="1.0">
+<app codeSignSettings="3" macAppBundleId="ca.weblite.spacefx" macAppUrl="https://github.com/shannah/SpaceFX/raw/master/c4j/releases/mac/SpaceFX.dmg" numScreenshots="0" title="SpaceFX" updates="Auto" url="https://github.com/shannah/SpaceFX/raw/master/c4j/SpaceFX-1.0-SNAPSHOT.jar" vendor="SpaceFX" version="1.0">
   <description>
     <![CDATA[
     An application for doing things.
